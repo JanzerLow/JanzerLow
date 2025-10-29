@@ -2,7 +2,7 @@
 
 ## Technical Skills
 - **Languages:** Python, JavaScript, Java, CSS, PHP
-- **Tools:** Git, Docker, PHPMyAdmin
+- **Tools:** Git, Docker, PhpMyAdmin, MySQL
 - **Other:** SQL,
 
 ## Contact
