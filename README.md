@@ -34,7 +34,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanCarbajal-es&layout=compact&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoanCarbajal-es&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoanCarbajal-es" /></p>
+![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanCarbajal-es&show_icons=true&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoanCarbajal-es&theme=tokyonight)
 
 ## 📍 Contact
 - 📧 **Email:** [joanalonsocq@gmail.com]
