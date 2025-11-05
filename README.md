@@ -36,7 +36,7 @@
 
 ![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanCarbajal-es&show_icons=true&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoanCarbajal-es&theme=tokyonight)
+![Languages by Repositorys](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoanCarbajal-es&theme=tokyonight)
 
 ## 📍 Contact
 - 📧 **Email:** [joanalonsocq@gmail.com]
