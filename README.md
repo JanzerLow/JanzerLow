@@ -1,4 +1,7 @@
-## 👋 Hi! I'm Joan Carbajal.
+## 👋 Hi! I'm Joan  
+
+💻 I'm a **future web developer** passionate about technology and design.  
+I love building **functional** and **beautiful** websites that combine creativity with clean code.  
 
 ## ⚙️ Technical Skills 
 
