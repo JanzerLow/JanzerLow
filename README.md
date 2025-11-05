@@ -32,7 +32,7 @@
 
 ## 📊 &nbsp;Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoanCarbajal-es&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="JoanCarbajal-es" />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoanCarbajal-es&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="JoanCarbajal-es" /></p>
 
