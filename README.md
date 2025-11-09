@@ -42,4 +42,4 @@ I love building **functional** and **beautiful** websites that combine creativit
 ![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanCarbajal-es&show_icons=true&theme=tokyonight)
 
 ## 📍 Contact
-- 📧 **Email:** [joanalonsocq@gmail.com]
+- 📧 **Email:** [joan.cq014@gmail.com]
